@@ -1,0 +1,11 @@
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\bin\Debug\ccc.exe.config
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\bin\Debug\ccc.exe
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\bin\Debug\ccc.pdb
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\obj\Debug\ccc.csproj.AssemblyReference.cache
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\obj\Debug\ccc.csproj.SuggestedBindingRedirects.cache
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\obj\Debug\ccc.Form1.resources
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\obj\Debug\ccc.Properties.Resources.resources
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\obj\Debug\ccc.csproj.GenerateResource.cache
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\obj\Debug\ccc.csproj.CoreCompileInputs.cache
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\obj\Debug\ccc.exe
+D:\university work\BSCS-2\OOP\CODE\ccc\ccc\obj\Debug\ccc.pdb
